@@ -44,7 +44,11 @@ Detail of armrest and backrest supports:
 ![](./Result-with-cushions.jpg)
 
 # License
-![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+# Donations
+If you used this project to build your own sofa, please [![star - outdoor-lounge-sofa](https://img.shields.io/github/stars/barry-luijten/outdoor-lounge-sofa?style=social)](https://github.com/barry-luijten/outdoor-lounge-sofa) this project and of course, I do appreciate any donation you would like to make! 😉
+
+[![Donate with PayPal](paypal-donate-button.png)](https://www.paypal.com/donate?business=MQGDJ2AGBSWCA&no_recurring=1&currency_code=EUR)
