@@ -26,4 +26,9 @@ All screws are stainless steel:
 * M8x80 mm (16 pieces) wood thread bolts for attaching the wheels
 
 ## Screen shots
-!(Overview.png)
+!(./Overview.png)
+
+## Photos of the result
+!(./Result.jpg)
+
+!(./Result-with-cusions.jpg)
