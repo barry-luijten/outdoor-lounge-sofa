@@ -30,6 +30,10 @@ All screws are stainless steel:
 
 ![](./Overview-back.png)
 
+![](./Frames.png)
+
+![](./Frames-back.png)
+
 ## Photos of the result
 ![](./Result.jpg)
 
