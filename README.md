@@ -1,7 +1,7 @@
 # DIY Outdoor Lounge Sofa Design
 DIY design for two wooden outdoor lounge sofas which can be used in a corner setup.
 The project contains the following assets:
-* Sketchup drawing
+* [Sketchup](https://sketchup.com) drawing
 * Excel sheet containing a list of used materials and costs (Dutch prices in 2021)
 * Sawing diagrams, generated with [1D Stock Cutter](http://www.astrokettle.com/pr1dsc.html)
 
@@ -12,7 +12,7 @@ The project contains the following assets:
 * Total dimensions for corner setup: 2662 x 2141 mm.
 * Seating height: 335 mm (excluding cushions, mine are 70mm heigh)
 
-The dimensions are not nice, round numbers due to the fact that we had a set of cushions already, which we wanted to re-use. I basically designed the sofa's around the dimensions of the cushions ;)
+The dimensions are not nice round numbers due to the fact that we had a set of cushions already, which we wanted to re-use. I basically designed the sofa around the dimensions of the cushions ;)
 
 
 ## Base Materials
@@ -26,9 +26,11 @@ All screws are stainless steel:
 * M8x80 mm (16 pieces) wood thread bolts for attaching the wheels
 
 ## Screen shots
-!(./Overview.png)
+![](./Overview.png)
+
+![](./Overview-back.png)
 
 ## Photos of the result
-!(./Result.jpg)
+![](./Result.jpg)
 
-!(./Result-with-cusions.jpg)
+![](./Result-with-cushions.jpg)
